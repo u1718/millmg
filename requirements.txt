@@ -1,0 +1,11 @@
+Django>=3.2,<3.3
+wagtail>=2.14,<2.15
+psycopg2-binary
+django-extensions
+
+wagtail-markdown
+Pygments
+wagtail-django-recaptcha
+django-crispy-forms
+wagtailmenus
+ipython

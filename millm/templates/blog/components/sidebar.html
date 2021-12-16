@@ -1,0 +1,11 @@
+{% load blogapp_tags debugger_tags %}
+
+<div class="col-md-4">
+  {% if page %}
+
+  {% categories_list %}
+
+  {% tags_list %}
+
+  {% endif %}
+</div>
